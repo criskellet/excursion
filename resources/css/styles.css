@@ -1,0 +1,48 @@
+
+
+html {
+    background-color: black;
+    text-align:center;
+    
+
+}
+a:link, a:visited  {
+    color: aquamarine;
+    font-size: 16px;
+}
+.mainHeading {
+    font-family: Verdana;
+    font-weight: normal;
+    Font-size: 50px;
+    color : white;
+    text_align: center;
+}
+
+.secondHeading {
+    font-family: Verdana;
+    font-weight: 300;
+    font_size:42px;
+}
+
+.paraOne {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+
+}
+
+.campImage {
+    
+    border : 2px solid white;
+    border-radius : 15px;
+}
+
+
+.copyright {
+    text-align: right;
+    color: gray;
+    font-size:1.5em;
+}
+section {
+    padding: 10px;
+}
